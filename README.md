@@ -21,7 +21,7 @@ $ pkg install git
 $ pip install requests
 $ pip install rich
 $ pip install bs4
-$ git clone https://github.com/Dapunta/sakera
+$ git clone https://github.com/abuhurairarafa/sakera
 ```
 ### ⇨  Menjalankan Script
 ```
